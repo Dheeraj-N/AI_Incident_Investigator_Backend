@@ -1,0 +1,122 @@
+[
+    {
+        "service": "checkout-api",
+        "timestamp": "2026-06-08T14:12:00",
+        "error_rate": 82,
+        "latency_ms": 4200
+    },
+    {
+        "service": "payment-api",
+        "timestamp": "2026-06-08T13:40:00",
+        "error_rate": 25,
+        "latency_ms": 1800
+    },
+    {
+        "service": "order-api",
+        "timestamp": "2026-06-08T12:10:00",
+        "error_rate": 12,
+        "latency_ms": 900
+    },
+    {
+        "service": "inventory-api",
+        "timestamp": "2026-06-08T11:40:00",
+        "error_rate": 8,
+        "latency_ms": 650
+    },
+    {
+        "service": "user-api",
+        "timestamp": "2026-06-08T11:10:00",
+        "error_rate": 15,
+        "latency_ms": 850
+    },
+    {
+        "service": "cart-api",
+        "timestamp": "2026-06-08T10:40:00",
+        "error_rate": 18,
+        "latency_ms": 1100
+    },
+    {
+        "service": "search-api",
+        "timestamp": "2026-06-08T10:10:00",
+        "error_rate": 7,
+        "latency_ms": 500
+    },
+    {
+        "service": "notification-api",
+        "timestamp": "2026-06-08T09:40:00",
+        "error_rate": 5,
+        "latency_ms": 450
+    },
+    {
+        "service": "analytics-api",
+        "timestamp": "2026-06-08T09:10:00",
+        "error_rate": 10,
+        "latency_ms": 700
+    },
+    {
+        "service": "checkout-api",
+        "timestamp": "2026-06-08T08:40:00",
+        "error_rate": 9,
+        "latency_ms": 600
+    },
+    {
+        "service": "payment-api",
+        "timestamp": "2026-06-07T17:10:00",
+        "error_rate": 14,
+        "latency_ms": 800
+    },
+    {
+        "service": "order-api",
+        "timestamp": "2026-06-07T16:10:00",
+        "error_rate": 11,
+        "latency_ms": 700
+    },
+    {
+        "service": "inventory-api",
+        "timestamp": "2026-06-07T15:10:00",
+        "error_rate": 6,
+        "latency_ms": 500
+    },
+    {
+        "service": "user-api",
+        "timestamp": "2026-06-07T14:10:00",
+        "error_rate": 9,
+        "latency_ms": 650
+    },
+    {
+        "service": "cart-api",
+        "timestamp": "2026-06-07T13:10:00",
+        "error_rate": 13,
+        "latency_ms": 750
+    },
+    {
+        "service": "search-api",
+        "timestamp": "2026-06-07T12:10:00",
+        "error_rate": 4,
+        "latency_ms": 450
+    },
+    {
+        "service": "notification-api",
+        "timestamp": "2026-06-07T11:10:00",
+        "error_rate": 3,
+        "latency_ms": 350
+    },
+    {
+        "service": "analytics-api",
+        "timestamp": "2026-06-07T10:10:00",
+        "error_rate": 8,
+        "latency_ms": 550
+    },
+    {
+        "service": "checkout-api",
+        "timestamp": "2026-06-07T09:10:00",
+        "error_rate": 12,
+        "latency_ms": 800
+    },
+    {
+        "service": "payment-api",
+        "timestamp": "2026-06-07T08:10:00",
+        "error_rate": 10,
+        "latency_ms": 700
+    }
+]

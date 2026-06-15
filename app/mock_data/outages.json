@@ -1,0 +1,122 @@
+[
+    {
+        "provider": "Stripe",
+        "status": "degraded",
+        "start_time": "2026-06-08T14:11:00",
+        "end_time": "2026-06-08T14:30:00"
+    },
+    {
+        "provider": "AWS RDS",
+        "status": "degraded",
+        "start_time": "2026-06-08T13:00:00",
+        "end_time": "2026-06-08T13:20:00"
+    },
+    {
+        "provider": "Cloudflare",
+        "status": "partial_outage",
+        "start_time": "2026-06-08T12:30:00",
+        "end_time": "2026-06-08T12:50:00"
+    },
+    {
+        "provider": "Twilio",
+        "status": "degraded",
+        "start_time": "2026-06-08T11:45:00",
+        "end_time": "2026-06-08T12:00:00"
+    },
+    {
+        "provider": "SendGrid",
+        "status": "degraded",
+        "start_time": "2026-06-08T11:00:00",
+        "end_time": "2026-06-08T11:15:00"
+    },
+    {
+        "provider": "Stripe",
+        "status": "operational",
+        "start_time": "2026-06-08T10:00:00",
+        "end_time": "2026-06-08T10:05:00"
+    },
+    {
+        "provider": "AWS S3",
+        "status": "degraded",
+        "start_time": "2026-06-08T09:20:00",
+        "end_time": "2026-06-08T09:40:00"
+    },
+    {
+        "provider": "GitHub",
+        "status": "partial_outage",
+        "start_time": "2026-06-08T08:30:00",
+        "end_time": "2026-06-08T08:50:00"
+    },
+    {
+        "provider": "Stripe",
+        "status": "degraded",
+        "start_time": "2026-06-07T17:30:00",
+        "end_time": "2026-06-07T18:00:00"
+    },
+    {
+        "provider": "Cloudflare",
+        "status": "operational",
+        "start_time": "2026-06-07T16:30:00",
+        "end_time": "2026-06-07T16:35:00"
+    },
+    {
+        "provider": "AWS RDS",
+        "status": "degraded",
+        "start_time": "2026-06-07T15:30:00",
+        "end_time": "2026-06-07T15:50:00"
+    },
+    {
+        "provider": "Twilio",
+        "status": "degraded",
+        "start_time": "2026-06-07T14:30:00",
+        "end_time": "2026-06-07T14:45:00"
+    },
+    {
+        "provider": "SendGrid",
+        "status": "partial_outage",
+        "start_time": "2026-06-07T13:30:00",
+        "end_time": "2026-06-07T13:50:00"
+    },
+    {
+        "provider": "Stripe",
+        "status": "operational",
+        "start_time": "2026-06-07T12:30:00",
+        "end_time": "2026-06-07T12:35:00"
+    },
+    {
+        "provider": "AWS S3",
+        "status": "degraded",
+        "start_time": "2026-06-07T11:30:00",
+        "end_time": "2026-06-07T11:50:00"
+    },
+    {
+        "provider": "GitHub",
+        "status": "partial_outage",
+        "start_time": "2026-06-07T10:30:00",
+        "end_time": "2026-06-07T10:50:00"
+    },
+    {
+        "provider": "Cloudflare",
+        "status": "degraded",
+        "start_time": "2026-06-07T09:30:00",
+        "end_time": "2026-06-07T09:50:00"
+    },
+    {
+        "provider": "Twilio",
+        "status": "operational",
+        "start_time": "2026-06-07T09:00:00",
+        "end_time": "2026-06-07T09:05:00"
+    },
+    {
+        "provider": "SendGrid",
+        "status": "degraded",
+        "start_time": "2026-06-07T08:30:00",
+        "end_time": "2026-06-07T08:50:00"
+    },
+    {
+        "provider": "AWS RDS",
+        "status": "partial_outage",
+        "start_time": "2026-06-07T08:00:00",
+        "end_time": "2026-06-07T08:20:00"
+    }
+]
